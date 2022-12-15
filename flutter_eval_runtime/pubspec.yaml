@@ -1,0 +1,22 @@
+name: flutter_eval_runtime
+description: Runtime component of flutter_eval, a dart_eval bridge library enabling code-push and eval() functionality for Flutter apps
+version: 0.4.7
+homepage: https://github.com/ethanblake4/flutter_eval
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+  flutter: ">=3.0.0 <3.4.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dart_eval_runtime: ^0.4.7
+  http: ^0.13.5
+
+dev_dependencies:
+  build_runner: any
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+    
+flutter:
