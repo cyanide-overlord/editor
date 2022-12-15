@@ -1,0 +1,9 @@
+dependency_overrides:
+  flutter_eval:
+    path: ../../flutter_eval
+  flutter_eval_runtime:
+    path: ../../flutter_eval_runtime
+  dart_eval:
+    path: ../../../dart_eval/dart_eval
+  dart_eval_runtime:
+    path: ../../../dart_eval/dart_eval_runtime
